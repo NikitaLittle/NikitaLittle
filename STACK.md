@@ -1,15 +1,15 @@
-# Tech stack
-- Programming languages: TypeScript, JavaScript
-- Frameworks and libraries: React, Next.js
-- State management: Redux
-- Forms and validation: React Hook Form
-- Markup: HTML, CSS, SCSS, SASS, BEM
-- Server requests: REST, Axios
-- Assemblers and tools: Webpack, Vite, Create React App (CRA)
-- Codestyle and formatting: ESLint, Prettier
-- Testing: Jest
+# Технический стэк
+- Языки программирования: TypeScript, JavaScript
+- Фреймворки и библиотеки: React, Next.js
+- Управление состоянием: Redux
+- Формы и валидация: React Hook Form
+- Разметка: HTML, CSS, SCSS, SASS, BEM
+- Запросы к серверу: REST, Axios
+- Сборщики и инструменты: Webpack, Vite, Create React App (CRA)
+- Стиль кода и форматирование: ESLint, Prettier
+- Тестирование: Jest
 - Backend: Node.js, Express
-- Databases: MongoDB, Mongoose
-- Authentication and authorization: JWT
+- Базы данных: MongoDB, Mongoose
+- Аутентификация и авторизация: JWT
 - Other tools: NGINX, Git, Postman, Figma
-- English level: B2
+- Уровень английского языка: B1

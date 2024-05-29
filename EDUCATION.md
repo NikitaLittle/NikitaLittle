@@ -1,3 +1,3 @@
-# Education
+# Образование
 
-- Branch of K.G. Razumovsky Moscow State University of Technology and Management, Volokolams
+- Филиал Московского государственного университета технологий и управления им. К.Г. Разумовского, Волоколамск

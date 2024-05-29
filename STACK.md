@@ -1,1 +1,15 @@
-
+# Tech stack
+Programming languages: TypeScript, JavaScript
+Frameworks and libraries: React, Next.js
+State management: Redux
+Forms and validation: React Hook Form
+Markup: HTML, CSS, SCSS, SASS, BEM
+Server requests: REST, Axios
+Assemblers and tools: Webpack, Vite, Create React App (CRA)
+Codestyle and formatting: ESLint, Prettier
+Testing: Jest
+Backend: Node.js, Express
+Databases: MongoDB, Mongoose
+Authentication and authorization: JWT
+Other tools: NGINX, Git, Postman, Figma
+English level: B2
